@@ -46,7 +46,7 @@ The goal of this lab is to create a basic network infrastructure on AWS using Te
 ### Setup Instructions
 1. Clone this repository to your local machine:
  ```bash
-git clone https://github.com/mohamedesmael10/aws-infrastructure-terraform-setup.git
+git clone https://github.com/Hellal1997/aws-infrastructure-terraform-setup-.git
    
 cd aws-infrastructure-terraform-setup
    ```
