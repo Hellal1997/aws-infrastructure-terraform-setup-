@@ -1,0 +1,14 @@
+.trraform/*
+**/.terraform/*
+.terraform*
+.terraform/
+terraform.tfstate*
+*.tfstate
+*.tfstate.*
+.terraformrc
+terraform.rc
+*.tfplan
+*.backup
+crash.log
+.infracost/
+.infracost*
